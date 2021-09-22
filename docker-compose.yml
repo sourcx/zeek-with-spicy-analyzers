@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+    zeek-with-spicy-analyzers:
+        build: zeek-with-spicy-analyzers
+        image: zeek-with-spicy-analyzers:latest
